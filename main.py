@@ -1,4 +1,4 @@
-from adverserial import GeneralizedTicTacToe
+from advers import GeneralizedTicTacToe
 
 
 if __name__ == '__main__':
