@@ -1,4 +1,4 @@
-from adverserial import GeneralizedTicTacToe
+from advers import GeneralizedTicTacToe
 
 teamID = "1458"
 teamID2 = "1449"
