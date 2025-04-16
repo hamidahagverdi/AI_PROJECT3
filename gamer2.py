@@ -1,4 +1,4 @@
-from adverserial import GeneralizedTicTacToe
+from advers import GeneralizedTicTacToe
 
 
 
